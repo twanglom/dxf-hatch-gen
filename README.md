@@ -7,8 +7,8 @@ It supports image import, SVG conversion, batch processing, and custom pattern g
 ---
 
 ## 📌 Installation
-1. Download **Demo-Version.zip** from the [Releases](https://github.com/twanglom/dxf-hatch-gen/releases/tag/V2.0.2):
-2. Double-click **`DXFHatchGeneratorPro_v2.0.2_Trial_Setup.exe`** to start the installer.
+1. Download **Demo-Version2.1.zip** from the [Releases](https://github.com/twanglom/dxf-hatch-gen/releases/tag/V2.0.2):
+2. Double-click **`DXFHatchGeneratorPro_v2.1_Setup.exe`** to start the installer.
 3. Follow the on-screen instructions to complete installation.
 4. Enjoy exploring the features of **DXF Hatch Gen**.
 
